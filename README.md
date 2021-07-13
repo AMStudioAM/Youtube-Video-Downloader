@@ -1,6 +1,11 @@
 # Youtube-Video-Downloader
 This is youtube video with python
 
+## Requirements
+'''
+  pip install pytube
+'''
+
 ## How To Use This Script?
 - Enter The Link Of The Video 
 - Select The Itag For The Stram You Want To Download 
