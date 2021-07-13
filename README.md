@@ -2,9 +2,9 @@
 This is youtube video with python
 
 ## Requirements
-'''
+```
   pip install pytube
-'''
+```
 
 ## How To Use This Script?
 - Enter The Link Of The Video 
