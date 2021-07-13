@@ -3,7 +3,7 @@ This is youtube video with python
 
 ## Requirements
 ```
-  pip install pytube
+pip install pytube
 ```
 
 ## How To Use This Script?
